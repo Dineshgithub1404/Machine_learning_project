@@ -16,22 +16,19 @@
 
 
 # Project Title
-               Loan defualt prediction
+            Loan defualt prediction
 
 
-## problem statement
+# Problem statement
+     The goal of this project is to develop a predictive model that can accurately identify borrowers who are likely to default on their loans. Given historical data about borrowers and their loan outcomes, the task is to build a machine learning model that can classify whether a new borrower will default or not.
 
-ether you need to change a Word document into a PDF or other format, our online PDF converter is the best choice to convert your files. Our PDF converter converts your Word docs to PDF fast, keeping all your formatting, tables, images, and text intact to look exactly like they did in Word.
+# Dataset link
+     https://www.kaggle.com/datasets/yasserh/loan-default-dataset
 
-## data set link
+# Project workflow
+A well-documented Jupyter notebook or report detailing each step of the process.
+Visualization of the EDA findings.
+Explanation of the chosen model's performance and its interpretation.
+Code for data preprocessing, feature selection, model training, and evaluation.
+Recommendations for the lending institution based on the insights gained from the analysis.
 
-
-https://www.kaggle.com/
-## project pieline
-
-dta collection
-
-
-deployement
-
-hyperparameter tinnning
